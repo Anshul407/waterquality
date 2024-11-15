@@ -5,3 +5,5 @@ streamlit-option-menu==0.3.2
 scikit-learn==1.0.1
 altair==4.0.0
 lightgbm==3.1.0
+protobuf==3.20
+
